@@ -1,4 +1,4 @@
-# skin_cancer_classification
+# Melanoma Skin Cancer Classification
 
 This is my Final Project in Univerisity: Melanoma Skin Cancer Classification
 

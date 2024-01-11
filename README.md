@@ -29,6 +29,7 @@ Melanoma Skin Cancer Dataset contains 10000 images. Melanoma skin cancer is dead
 ## Part 2: CNN Architectures
 We built 3 models( AlexNet, VGG16 and ResNet50 ) and applied Data Augmentation to find the best model. We used Accuracy as the key metric to evaluate these models. The results are summarized in Part 3.
 
+![](https://github.com/HuynhVietDung/skin_cancer_classification/blob/main/Method.png)
 ### AlexNet Architecture
 * Layer Configurations:
 - First Layer: Input 3, Output 96, Kernel 11x11, Stride 4, Padding 2, ReLU Activation, MaxPooling.
